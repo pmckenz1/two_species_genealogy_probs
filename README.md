@@ -4,4 +4,4 @@ Adapted from equations 14, 15, 16, and 17 of Rosenberg, "The Shapes of Neutral G
 
 Not packaged, just one script (`rosenberg2003_eqs.R`) with functions.
 
-Demonstration in `figure3-demo.ipynb`.
+Demonstration in `figure3-demo.ipynb` can be viewed in browser.
